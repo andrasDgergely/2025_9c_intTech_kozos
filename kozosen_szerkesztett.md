@@ -14,6 +14,9 @@
 
 ## Gergely András Dániel
 
+- ###### egy
+- ###### három
+
 ## Gubán János Máté
 
 ## Hajdu Krisztián
